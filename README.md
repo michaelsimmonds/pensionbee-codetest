@@ -16,7 +16,12 @@ The application should be shipped with three tests:
 
 Your application may make use of open-source code libraries. It is entirely up to you how the application performs the challenge.
 
+## Setup
 
+* Clone or download the repository.
+* Run `yarn` in the console.
+* Run `nodemon` in the console. Will run on Port 4000.
+* For tests, run `yarn test`.
 
 ## Process
 
